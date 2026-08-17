@@ -130,7 +130,7 @@ Currently at **Telus Digital**, I support enterprise platforms (Appian, Enterpri
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🛒 Cloud-Native Commerce Platform</h3>
+      <h3 align="center">🛒 AIOps-Driven-Cloud-Native-Commerce-Platform</h3>
       <p align="center">
         Production-style microservices e-commerce platform: Docker, Kubernetes, GitOps, IaC, CI/CD, AIOps.<br/><br/>
         <a href="https://github.com/shaban73/cloud-native-commerce-platform"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
