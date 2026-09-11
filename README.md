@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm an **Application Support Analyst turned DevOps Engineer** with **2+ years of hands-on experience** deploying and operating production cloud infrastructure on **GCP & AWS** — specializing in **Kubernetes (GKE), Terraform, and Docker**.
+I'm an **DevOps Engineer** with **2.4+ years of hands-on experience** deploying and operating production cloud infrastructure on **GCP & AWS** — specializing in **Kubernetes (GKE), Terraform, and Docker**.
 
 Currently at **Telus Digital**, I support enterprise platforms (Appian, Enterprise Chatbot, Automation Anywhere RPA) across multi-environment production setups, where I:
 
