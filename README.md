@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2980,50:F20089,100:0F2027&height=220&section=header&text=Mohammad%20Shaban&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=AI%20DevOps%20Engineer%20%7C%20GCP%20%7C%20Kubernetes%20%7C%20Terraform&descSize=18&descColor=ffffff&descAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2980,50:F20089,100:0F2027&height=220&section=header&text=Mohammad%20Shaban&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=AI%20DevOps%20Engineer%20%7C%20GCP%20%7C%20AWS%20%7C%20Kubernetes%20%7C%20Terraform&descSize=18&descColor=ffffff&descAlignY=55" width="100%" />
 
   <h3>👋 Building self-healing infrastructure where AI meets DevOps.</h3>
 
